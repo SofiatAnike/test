@@ -7,10 +7,6 @@ public class Account {
 		private double balance;
 		private String name;
 		
-		// Constructor
-		public Account(double balance) {
-			this("Unknown", balance);
-		}
 
 
 
